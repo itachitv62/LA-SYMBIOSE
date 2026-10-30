@@ -59,19 +59,21 @@
     opacity: 1;
 }
 
+
 .ds4 .bumper.left {
     float: left;
-    background-image: url("bumper.png");
-    background-position: left top;
+    background-image: url("l1.png");
+    background-position: 0 0;
     transform: none;
 }
 
 .ds4 .bumper.right {
     float: right;
-    background-image: url("bumper.png");
-    background-position: right top;
+    background-image: url("r1.png");
+    background-position: 0 0;
     transform: none;
 }
+
 
 
 .ds4 .touchpad {
