@@ -61,13 +61,15 @@
 
 .ds4 .bumper.left {
     float: left;
-    background-position: 0 0;
+    background-image: url("bumper.png");
+    background-position: left top;
     transform: none;
 }
 
 .ds4 .bumper.right {
     float: right;
-    background-position: -98px 0;
+    background-image: url("bumper.png");
+    background-position: right top;
     transform: none;
 }
 
