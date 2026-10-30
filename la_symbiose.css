@@ -38,12 +38,13 @@
     background-position-x: 99px;
 }
 
+
 .ds4 .bumper {
     width: 98px;
     height: 22px;
-    background: url(bumper.png) no-repeat;
+    background-image: url("bumper.png");
+    background-repeat: no-repeat;
     opacity: 0;
-}
 }
 
 .ds4 .bumpers {
@@ -69,8 +70,7 @@
     background-position: -98px 0;
     transform: none;
 }
-}
-}
+
 
 .ds4 .touchpad {
     width: 262px;
