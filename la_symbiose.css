@@ -39,10 +39,11 @@
 }
 
 .ds4 .bumper {
-    width: 99px;
-    height: 23px;
+    width: 98px;
+    height: 22px;
     background: url(bumper.png) no-repeat;
     opacity: 0;
+}
 }
 
 .ds4 .bumpers {
