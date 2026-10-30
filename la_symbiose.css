@@ -58,9 +58,9 @@
 }
 
 .ds4 .bumper.left {
-    /* -webkit-transform: rotateY(180deg); */
-    /* transform: rotateY(180deg); */
     float: left;
+    background-position: 0 0;
+    transform: none;
 }
 
 .ds4 .bumper.right {
