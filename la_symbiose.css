@@ -42,7 +42,7 @@
 .ds4 .bumper {
     width: 98px;
     height: 22px;
-    background-image: url("bumper.png");
+    background-image: url("https://raw.githubusercontent.com/itachitv62/LA-SYMBIOSE/main/l1.png");
     background-repeat: no-repeat;
     opacity: 0;
 }
